@@ -1,5 +1,3 @@
-import re
-
 
 def consonent_value(string):
     alphabet = "abcdefghijklmnopqrstuvwxyz"
